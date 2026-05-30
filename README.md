@@ -26,7 +26,7 @@
 
 Epsylon nace de una idea simple:
 
-**si una entrevista define una etapa de tu vida profesional, no deberias afrontarla sin preparacion real.**
+**Si una entrevista define una etapa de tu vida profesional, no deberias afrontarla sin preparacion real.**
 
 ---
 
@@ -38,7 +38,7 @@ Epsylon nace de una idea simple:
 
 ---
 
-## Pantalla de login Desktop
+## Pantalla de Login Desktop
 
 <p align="center">
  <img src="./assets/login.png" alt="Pantalla de login" width="50%">
