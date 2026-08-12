@@ -33,7 +33,7 @@ Epsylon nace de una idea simple:
 ## Demo
 
 <p align="center">
-  <img src="./assets/demo.gif" alt="Demo de Epsylon en accion" width="100%">
+  <img src="./assets/demo2.gif" alt="Demo de Epsylon en accion" width="100%">
 </p>
 
 ---
